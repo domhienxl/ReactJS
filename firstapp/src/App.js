@@ -19,7 +19,6 @@ function App() {
           Learn React
         </a>
         <Xe color='red' value='Toi la chiec xe do'/>
-        <Xe color='blue' value='Toi la chiec xe xanh'/>
       </header>
     </div>
   );
